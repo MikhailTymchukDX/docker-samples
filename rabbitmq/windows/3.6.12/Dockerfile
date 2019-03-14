@@ -1,4 +1,4 @@
-FROM microsoft/windowsservercore
+FROM mcr.microsoft.com/windows/servercore:1809
 
 LABEL Description="RabbitMQ" Vendor="Pivotal" Version="3.6.12"
 
